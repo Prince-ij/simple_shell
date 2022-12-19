@@ -320,10 +320,10 @@ $
 
 ## Authors ##
 
-👤 **BESTHOR IGBE**
+👤 **IBRAHIM AMINU**
 
-- GitHub: [@besthor] (https://github.com/besthor)
+- GitHub: [@Prince-ij] (https://github.com/Prince-ij)
 
-👤 **MOSURO KANYINSOLA OLUBUNMI**
+👤 **OLAMILEKAN EYEBIYOKIN**
 
 - GitHub: [@](https://github.com)
